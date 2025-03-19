@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/inventario-front/static/js/main.f3df34f1.js",
+    "main.js": "/inventario-front/static/js/main.b07a91fa.js",
     "index.html": "/inventario-front/index.html",
-    "main.f3df34f1.js.map": "/inventario-front/static/js/main.f3df34f1.js.map"
+    "main.b07a91fa.js.map": "/inventario-front/static/js/main.b07a91fa.js.map"
   },
   "entrypoints": [
-    "static/js/main.f3df34f1.js"
+    "static/js/main.b07a91fa.js"
   ]
 }
