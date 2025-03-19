@@ -166,7 +166,7 @@ export const Register = () => {
                     
                     <div className="text-center mt-4">
                       <p className="text-muted mb-0">
-                        ¿Ya tienes una cuenta? <a href="#" className="text-decoration-none text-primary">Iniciar Sesión</a>
+                        ¿Ya tienes una cuenta? <p href="#" className="text-decoration-none text-primary">Iniciar Sesión</p>
                       </p>
                     </div>
                   </form>
